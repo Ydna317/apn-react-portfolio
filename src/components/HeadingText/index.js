@@ -1,7 +1,7 @@
 import React from "react";
 import { useSpring, animated } from "react-spring";
 import "./headingText.css";
-import resumePdf from "../../assets/imgs/apnresume.pdf";
+import resumePdf from "../../assets/imgs/Andy P. Nguyen - Resume 03.10.21 ABK Data Entry Specialist.pdf";
 import ButtonPrimary from "../ButtonPrimary";
 
 function HeadingText() {

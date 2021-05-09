@@ -1,4 +1,5 @@
 import weatherDashboard from "../assets/images/weatherDashboard.png";
+import googleBooks from "../assets/images/googleBooksSearch.jpg";
 import employeeTracker from "../assets/images/employeeTracker.jpg";
 import nodejsLogo from "../assets/images/nodejsLogo.svg";
 import mongodbLogo from "../assets/images/mongodbLogo.svg";
@@ -21,9 +22,9 @@ const projects = [
         imageUrl: employeeTracker,
     },
     {
-        title: "Employee Tracker",
-        description: "A command-line interface app for tracking employees within a company.",
-        imageUrl: employeeTracker,
+        title: "Google Book Search",
+        description: "Online database for finding the perfect read.",
+        imageUrl: googleBooks,
     },
     {
         title: "Employee Tracker",
@@ -39,12 +40,7 @@ const projects = [
         title: "Employee Tracker",
         description: "A command-line interface app for tracking employees within a company.",
         imageUrl: employeeTracker,
-    },
-    {
-        title: "Employee Tracker",
-        description: "A command-line interface app for tracking employees within a company.",
-        imageUrl: employeeTracker,
-    },
+    }
 
         
 ];
