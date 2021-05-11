@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8318ada8.chunk.css",
+    "main.js": "/static/js/main.8edd345e.chunk.js",
+    "main.js.map": "/static/js/main.8edd345e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cf8c75f0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cf8c75f0.js.map",
+    "static/js/2.c70d0fb6.chunk.js": "/static/js/2.c70d0fb6.chunk.js",
+    "static/js/2.c70d0fb6.chunk.js.map": "/static/js/2.c70d0fb6.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.978552e6bea0b1da9247543372f2d25c.js": "/precache-manifest.978552e6bea0b1da9247543372f2d25c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.8318ada8.chunk.css.map": "/static/css/main.8318ada8.chunk.css.map",
+    "static/js/2.c70d0fb6.chunk.js.LICENSE.txt": "/static/js/2.c70d0fb6.chunk.js.LICENSE.txt",
+    "static/media/Andy P. Nguyen - Resume 03.10.21 ABK Data Entry Specialist.pdf": "/static/media/Andy P. Nguyen - Resume 03.10.21 ABK Data Entry Specialist.8182e19f.pdf",
+    "static/media/andypnguyen.jpg": "/static/media/andypnguyen.4b9f6975.jpg",
+    "static/media/budgetboss.png": "/static/media/budgetboss.0eadfb9d.png",
+    "static/media/cssLogo.svg": "/static/media/cssLogo.555be697.svg",
+    "static/media/employeeTracker.jpg": "/static/media/employeeTracker.fee19abc.jpg",
+    "static/media/expressjsLogo.svg": "/static/media/expressjsLogo.79ddc65e.svg",
+    "static/media/fitnessTracker.png": "/static/media/fitnessTracker.4c9e4a5b.png",
+    "static/media/googleBooksSearch.jpg": "/static/media/googleBooksSearch.4c400c66.jpg",
+    "static/media/htmlLogo.svg": "/static/media/htmlLogo.0920c0ef.svg",
+    "static/media/iShip.png": "/static/media/iShip.b399f739.png",
+    "static/media/javascriptLogo.svg": "/static/media/javascriptLogo.1731f46f.svg",
+    "static/media/jqueryLogo.svg": "/static/media/jqueryLogo.3b44b5b7.svg",
+    "static/media/lifeCruiser.png": "/static/media/lifeCruiser.ca03cf63.png",
+    "static/media/mongodbLogo.svg": "/static/media/mongodbLogo.93d52d41.svg",
+    "static/media/mysqlLogo.svg": "/static/media/mysqlLogo.d6f3f9c7.svg",
+    "static/media/nguyendesigns.png": "/static/media/nguyendesigns.1602376f.png",
+    "static/media/nodejsLogo.svg": "/static/media/nodejsLogo.aebcfc81.svg",
+    "static/media/weatherDashboard.png": "/static/media/weatherDashboard.fce687f8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf8c75f0.js",
+    "static/js/2.c70d0fb6.chunk.js",
+    "static/css/main.8318ada8.chunk.css",
+    "static/js/main.8edd345e.chunk.js"
+  ]
+}
